@@ -1,0 +1,72 @@
+[
+  {
+    "path": "archive/20260926/README.md",
+    "bytes": 797,
+    "sha256": "b138af69bfcd9851b1fa18a3434a19014331d1346342bbeba53bdb9a8bfa3491"
+  },
+  {
+    "path": "archive/20260926/docs/RESCUE-FAILURE-MECHANISM-20260925.md",
+    "bytes": 8499,
+    "sha256": "e1c764b0029963e267b963d67802633c47b9402687811cb647037ee0d7b6e9b2"
+  },
+  {
+    "path": "archive/20260926/programmatic/breakthrough.py",
+    "bytes": 15866,
+    "sha256": "8f63bdc98abdc2a2505e7308c2182786aed91823fbfbf10f2ec76368814cfb7c"
+  },
+  {
+    "path": "archive/20260926/programmatic/dictionary_study.py",
+    "bytes": 4715,
+    "sha256": "ac9621c1d1a48a817b39782c68571e39c95c54d6acfb19d26cd26510c494820c"
+  },
+  {
+    "path": "archive/20260926/programmatic/evidence_dictionary.py",
+    "bytes": 3009,
+    "sha256": "e90153936092a266f65ff30b6bb1bee8780c4e63435cb3bdff9f4852f3810a2e"
+  },
+  {
+    "path": "archive/20260926/programmatic/model_probe.py",
+    "bytes": 4837,
+    "sha256": "f86c9bb749376b29d2935624cd50bc47e113f4bc471c3f9e3d38256ad5dd8f72"
+  },
+  {
+    "path": "archive/20260926/research-scripts/analyze_wiki_eight.py",
+    "bytes": 3015,
+    "sha256": "08161f50756e4846858e9e0652757f341dea3988ff1a0ba57597fd8b400ac613"
+  },
+  {
+    "path": "archive/20260926/research-scripts/check_wiki_variants.py",
+    "bytes": 2743,
+    "sha256": "8e618394a32ce2bc81ab9e38bd1c3493d6b18eb1ce63e79edfe1ed3b9c6a284a"
+  },
+  {
+    "path": "archive/20260926/research-scripts/compare_wiki_variants.py",
+    "bytes": 1370,
+    "sha256": "ccd57d7a45652cc2d20aacc308124a97e0c38a01c6b51c4040455ebbaef40fba"
+  },
+  {
+    "path": "archive/20260926/research-scripts/diagnose_wiki_calls.py",
+    "bytes": 4346,
+    "sha256": "0bb53a4c668f590d73022e92c71dceab369bc4895491209e29874f97fc8239e0"
+  },
+  {
+    "path": "archive/20260926/research-scripts/replay_wiki_structure.py",
+    "bytes": 3757,
+    "sha256": "9147d4c9837804632899db59a80d6c4d5eddf92fbb81239cc681286d17cf9718"
+  },
+  {
+    "path": "archive/20260926/research-scripts/wiki_live_eight.py",
+    "bytes": 9590,
+    "sha256": "314cf35ddd0e2c853be8040a0fcfebb0bb3c994ec3d95e6085c070316d12bc51"
+  },
+  {
+    "path": "archive/20260926/tests/test_breakthrough.py",
+    "bytes": 2267,
+    "sha256": "68e71fd415bd5beb882536a3a3acbecdeef57d142a0728693e86d458bf37c81c"
+  },
+  {
+    "path": "archive/20260926/tests/test_evidence_dictionary.py",
+    "bytes": 744,
+    "sha256": "3ebfe7a9febd1431308ac79239f256f0a55a9801d07cc843765a334d11ac6d83"
+  }
+]
