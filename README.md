@@ -1,6 +1,6 @@
 # RimWorld Bench Archive
 
-This public repository preserves high-value research records and design decisions from the N.E.K.O RimWorld Agent work.
+This public repository preserves high-value research records and design decisions from the N.E.K.O RimWorld Agent work. Start with [INDEX.md](INDEX.md).
 
 It is an archive, not the production plugin, Mod, or active benchmark source tree. It contains selected plans, result reports, correction records, replay/evidence indexes, and research-only scripts. Large raw traces, game saves, model streams, credentials, generated caches, and `.bench-results` are not copied here; their local retention roots and interpretation boundaries are recorded in the evidence indexes.
 
